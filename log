@@ -1,0 +1,8 @@
+decision 0.23
+decision + grid 0.23
+forest 0.18
+forest + grid 0.19
+gradient 0.17
+gradient + grid 0.311
+linear 0.18
+gradient + removed_data 0.14
