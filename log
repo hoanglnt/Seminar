@@ -4,5 +4,9 @@ forest 0.18
 forest + grid 0.19
 gradient 0.17
 gradient + grid 0.311
-linear 0.18
 gradient + removed_data 0.14
+
+
+
+gradient 
+500 0.906
